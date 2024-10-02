@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Yusuf Daban</h1>
-<h3 align="center">A passionate Backend developer from Turkey</h3>
-# Hi there, I'm [Your Name]! 👋
+
+# Hi there, I'm Yusuf! 👋
 
 Welcome to my GitHub profile! I'm a passionate **Software Developer** with experience in building full-stack applications, open-source contributions, and exploring the latest technologies.
+
+### 🌱 What I’m currently learning:
+- AI ML in Pyhton
 
 
 <h3 align="left">Languages and Tools:</h3>
